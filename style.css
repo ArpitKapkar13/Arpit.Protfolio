@@ -61,6 +61,7 @@ a:hover {
 
 .logo {
   font-size: 2rem;
+  font-weight: bold;
 }
 
 .logo:hover {
@@ -173,6 +174,7 @@ section {
 
 .section__pic-container {
   display: flex;
+  border-radius:0svi;
   height: 400px;
   width: 400px;
   margin: auto 0;
@@ -433,4 +435,9 @@ footer {
 
 footer p {
   text-align: center;
+}
+
+.project-img{
+  background:black;
+  background-color: black;
 }
